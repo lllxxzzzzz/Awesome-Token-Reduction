@@ -5,6 +5,8 @@
 
 
 
+
+
 ## ✨ About
 
 This repo contains a curated list of **Token Reduction** papers relating to LVLM domain.
@@ -23,7 +25,7 @@ This repo contains a curated list of **Token Reduction** papers relating to LVLM
 
   ​	[During LLM](#section2_2)
 
-- Other
+- [Other](#section3)
 
   
 
@@ -75,4 +77,9 @@ This repo contains a curated list of **Token Reduction** papers relating to LVLM
 | [SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model Inference](https://arxiv.org/abs/2410.04417) | arXiv | 2024-10-06 |   [Github](https://github.com/Gumpest/SparseVLMs)   |
 | [PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction](https://arxiv.org/abs/2410.17247) | arXiv | 2024-10-22 | [Github](https://github.com/Cooperx521/PyramidDrop) |
 
+
+
+## Other<a id='section3'></a>
+
+Coming soon...
 
