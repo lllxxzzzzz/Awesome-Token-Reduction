@@ -7,19 +7,21 @@
 
 
 
+
+
 ## ✨ About
 
 This repo contains a curated list of **Token Reduction** papers relating to LVLM domain.
 
 ## 🏠 Table of Contents
 
-- [Unimodal](#section1)
+- [Unimodal  Guidance](#section1)
 
   ​	[Before LLM](#section1_1)
 
   ​	[During LLM](#section1_2)
 
-- [Multimodal](#section2)
+- [Multimodal Guidance](#section2)
 
   ​	[Before LLM](#section2_1)
 
@@ -33,7 +35,7 @@ This repo contains a curated list of **Token Reduction** papers relating to LVLM
 
 ## 📝 Awesome Papers
 
-## Unimodal<a id='section1'></a>
+## Unimodal Guidance<a id='section1'></a>
 
 
 
@@ -57,7 +59,7 @@ This repo contains a curated list of **Token Reduction** papers relating to LVLM
 
 
 
-## Multimodal<a id='section2'></a>
+## Multimodal Guidance<a id='section2'></a>
 
 
 
@@ -82,4 +84,3 @@ This repo contains a curated list of **Token Reduction** papers relating to LVLM
 ## Other<a id='section3'></a>
 
 Coming soon...
-
