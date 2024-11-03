@@ -1,39 +1,41 @@
-# Token-Reduction-Paper
+# Awesome-Token-Reduction
+
+
 
 
 
 
 ## ✨ About
 
-此存储库包含与**多模态**等领域相关的 **Token Reduction** 论文的精选列表。
+This repo contains a curated list of **Token Reduction** papers relating to LVLM domain.
 
-## 🏠 目录
+## 🏠 Table of Contents
 
-- 单模态
+- [Unimodal](#section1)
 
-  ​	LLM之前
+  ​	[Before LLM](#section1_1)
 
-  ​	LLM之间
+  ​	[During LLM](#section1_2)
 
-- 跨模态
+- [Multimodal](#section2)
 
-  ​	LLM之前
+  ​	[Before LLM](#section2_1)
 
-  ​	LLM之间
+  ​	[During LLM](#section2_2)
 
-- 其他
+- Other
 
   
 
-  (LLM之前是指未经过LLM和在LLM之前进行token reduction的方法)
+  (Before LLM is the method of token reduction without and before LLM)
 
-## 📝 论文
+## 📝 Awesome Papers
 
-## 单模态
+## Unimodal<a id='section1'></a>
 
 
 
-### LLM之前
+### Before LLM<a id='section1_1'></a>
 
 | Title                                                        |   Venue   |    Date    |                            Code                             |
 | :----------------------------------------------------------- | :-------: | :--------: | :---------------------------------------------------------: |
@@ -45,7 +47,7 @@
 
  
 
-### LLM之间
+### During LLM<a id='section1_2'></a>
 
 | Title                                                        |   Venue   |    Date    |                      Code                       |
 | :----------------------------------------------------------- | :-------: | :--------: | :---------------------------------------------: |
@@ -53,11 +55,11 @@
 
 
 
-## 跨模态
+## Multimodal<a id='section2'></a>
 
 
 
-### LLM之前
+### Before LLM<a id='section2_1'></a>
 
 | Title                                                        |   Venue   |    Date    |                         Code                          |
 | :----------------------------------------------------------- | :-------: | :--------: | :---------------------------------------------------: |
@@ -66,10 +68,11 @@
 
 
 
-### LLM之间
+### During LLM<a id='section2_2'></a>
 
 | Title                                                        | Venue |    Date    |                        Code                         |
 | :----------------------------------------------------------- | :---: | :--------: | :-------------------------------------------------: |
 | [SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model Inference](https://arxiv.org/abs/2410.04417) | arXiv | 2024-10-06 |   [Github](https://github.com/Gumpest/SparseVLMs)   |
 | [PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction](https://arxiv.org/abs/2410.17247) | arXiv | 2024-10-22 | [Github](https://github.com/Cooperx521/PyramidDrop) |
+
 
