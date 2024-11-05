@@ -9,11 +9,15 @@
 
 
 
+
+
 ## ✨ About
 
-This repo contains a curated list of **Token Reduction** papers relating to LVLM domain.
+This repo contains a curated list of **Token Reduction** papers relating to LVLM and Transformer domain.
 
 ## 🏠 Table of Contents
+
+- [Survey](#section0)
 
 - [Unimodal  Guidance](#section1)
 
@@ -34,6 +38,15 @@ This repo contains a curated list of **Token Reduction** papers relating to LVLM
   (Before LLM is the method of token reduction without and before LLM)
 
 ## 📝 Awesome Papers
+
+## 📄 Survey<a id='section0'></a>
+
+| Title                                                        | Venue |    Date    | Code |
+| :----------------------------------------------------------- | :---: | :--------: | :--: |
+| [Lightweight Deep Learning for Resource-Constrained Environments: A Survey](https://arxiv.org/abs/2404.07236) | arXiv | 2024-04-08 |  -   |
+| [A Survey on Transformer Compression](https://arxiv.org/abs/2402.05964) | arXiv | 2024-02-05 |  -   |
+
+
 
 ## Unimodal Guidance<a id='section1'></a>
 
@@ -56,6 +69,7 @@ This repo contains a curated list of **Token Reduction** papers relating to LVLM
 | Title                                                        |   Venue   |    Date    |                      Code                       |
 | :----------------------------------------------------------- | :-------: | :--------: | :---------------------------------------------: |
 | [An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models](https://arxiv.org/abs/2403.06764) | ECCV 2024 | 2024-03-11 | [Github](https://github.com/pkunlp-icler/FastV) |
+| [Boosting Multimodal Large Language Models with Visual Tokens Withdrawal for Rapid Inference](https://arxiv.org/abs/2405.05803) |   arXiv   | 2024-05-09 |     [Github](https://github.com/lzhxmu/VTW)     |
 
 
 
